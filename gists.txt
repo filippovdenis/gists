@@ -1,0 +1,1 @@
+ ls -l /root/ >ls-error.log 2>&1
